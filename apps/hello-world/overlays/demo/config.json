@@ -1,0 +1,1 @@
+{"appName":"hello-world","userGivenName":"hello-world","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"apps/hello-world/overlays/demo","srcRepoURL":"https://github.com/jgoelen/argo-autopilot-demo.git","srcTargetRevision":"","labels":null}
